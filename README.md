@@ -5,9 +5,10 @@ To keep our code at Google in the best possible shape we provided our software e
 
 Many thanks to these folks for inspiration and hours of hard work getting this guide done:
 
-[Jonathan Wolter](http://jawspeak.com/)
-Russ Ruffer
-[Miško Hevery](http://misko.hevery.com/about/)
+- [Jonathan Wolter](http://jawspeak.com/)
+- Russ Ruffer
+- [Miško Hevery](http://misko.hevery.com/about/)
+
 Also thanks to Blaine R Southam who has turned it into a [pdf](http://misko.hevery.com/attachments/Guide-Writing%20Testable%20Code.pdf) book.
 
 ###Flaw #1: Constructor does Real Work
